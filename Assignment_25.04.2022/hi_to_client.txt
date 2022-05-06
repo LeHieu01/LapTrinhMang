@@ -1,0 +1,2 @@
+This's a hi message from server.
+This massage will always appear when client has connection.
