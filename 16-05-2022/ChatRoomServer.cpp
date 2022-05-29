@@ -44,7 +44,7 @@ DWORD WINAPI ClientThread(LPVOID lpParam)
         }
         else
         {
-            FILE* f = fopen("C:\\Users\\Acer\\Documents\\TestServerUser.txt", "r");
+            FILE* f = fopen("D:\\Code\\CPP\\TestServerUser.txt", "r");
 
             int found = 0;
             while (!feof(f))
